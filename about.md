@@ -71,5 +71,5 @@ Wanting to follow in the footsteps of some hard-working quant genius friends, I'
 
 ## Publications
 
-1. LuciEntry: Towards Understanding the Design of Lucid Dream Induction [https://dl.acm.org/doi/10.1145/3715336.3735790] (https://dl.acm.org/doi/10.1145/3715336.3735790)
+1. LuciEntry: Towards Understanding the Design of Lucid Dream Induction [https://dl.acm.org/doi/10.1145/3715336.3735790](https://dl.acm.org/doi/10.1145/3715336.3735790)
 
