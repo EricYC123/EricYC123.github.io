@@ -63,8 +63,8 @@ Wanting to follow in the footsteps of some hard-working quant genius friends, I'
     <br>
     <i>
       <a href="https://www.monash.edu/study/courses/find-a-course/engineering-e3001#overview-1,Software_engineering">
-        Bachlor of Software Engineering (Honours)
-      <a>
+        Bachelor of Software Engineering (Honours)
+      </a>
     </i>
   </div>
 </div>
